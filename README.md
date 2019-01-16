@@ -1,6 +1,6 @@
 # raceSimulation
 a simple race simulation program(COMP2401a1)
-Author: Jiujiu Duan Student ID: 101094923
+Author: Mox
 Purpose: A C program to simulate a race between a tortoise and a hare.
 Files:  assignment1.c README.txt
 
